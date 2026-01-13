@@ -33,3 +33,4 @@ console.log(calculateActorsAges(actors));
 
 
 //Estos ejercicios casi me vuelan un ojo
+//***CORRECCIÓN Esto no era nada los de después si que son fuego
